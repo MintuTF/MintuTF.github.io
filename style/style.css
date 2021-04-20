@@ -1,4 +1,21 @@
 
-.about-header{
+.about-head-one{
+  
     color: blue;
+}
+
+.about-body{
+
+
+    background-image:url("../images/about-background.jpg");
+    background-repeat: no-repeat;    
+    background-size: auto;
+    object-fit: cover;
+    
+}
+p{
+    color: black;
+}
+header{
+padding-left: 10%;
 }
