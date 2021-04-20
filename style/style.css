@@ -1,10 +1,10 @@
 
-.about-head-one{
+h1{
   
-    color: blue;
+    color: wheat;
 }
 
-.about-body{
+body{
 
 
     background-image:url("../images/about-background.jpg");
