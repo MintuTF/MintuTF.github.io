@@ -38,3 +38,15 @@ img{
 .image-container{
     margin-left: 100px;
 }
+
+.value-of-list{
+margin-top: 2px;
+margin-left: 20px;
+font-size: 13px;
+font-family: Arial, Helvetica, sans-serif;
+}
+q{
+    font-size: 17px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-style: italic;
+}
