@@ -1,5 +1,5 @@
 
-h1{
+h1,p,a{
   
     color: wheat;
 }
@@ -13,9 +13,28 @@ body{
     object-fit: cover;
     
 }
-p{
-    color: black;
-}
+
 header{
 padding-left: 10%;
+}
+ul{
+    color: wheat;
+    
+}
+li{
+    color: wheat;
+}
+img{
+ width: 300px;
+ height: 300px;
+ object-fit: cover;
+ border-radius: 20%;
+ -webkit-border-radius: 20%;
+ -moz-border-radius: 20%;
+ -ms-border-radius: 20%;
+ -o-border-radius: 20%;
+ margin-left: 100px;
+}
+.image-container{
+    margin-left: 100px;
 }
